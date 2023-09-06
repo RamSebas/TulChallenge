@@ -13,6 +13,7 @@ Finalmente la funcion retorna la cadena con los cambios realizados.
 
 
 //Instrucciones.
+Clonar repositorio y ejecutar archivo Main.kt preferentemente en Intellij
 Ingresar el valor que deseas modificar, separa con un espacio e ingresa el numero de cambios maximos que deseas realizar.
 Ejemplo 
 1231 1
