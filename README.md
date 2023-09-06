@@ -6,8 +6,8 @@ Elegi este ejercicio porque fue un desafio para mi interpretar ese problema y ll
 Para resolver el ejercicio
 
 - Primeramente tuve que crear una cadena que pueda ser modificada con una cantidad maxima de cambios permitidos.
-- Descompuse el string en una matriz.
-- Contabilizo el tamano de la matriz.
+- Descompuse el string en un array.
+- Contabilizo el tamano del array.
 - Luego ejecute un bucle donde leo la mitad de la cadena de izquierda a derecha para comparar los valores, para poder seleccionar el de mayor valor y reemplazar en el string.
 - Si el numero de cambios necesarios es mayor al numero de cambios permitidos arroja -1.
 - Si el numero de cambios necesarios puede replicar un palindromo, imprime el numero de mayor valor en su simetrico.
